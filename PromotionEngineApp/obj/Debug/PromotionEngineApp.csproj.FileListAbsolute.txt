@@ -1,0 +1,7 @@
+C:\Users\siddhant\source\repos\PromotionEngineTest\PromotionEngineApp\bin\Debug\PromotionEngineApp.exe.config
+C:\Users\siddhant\source\repos\PromotionEngineTest\PromotionEngineApp\bin\Debug\PromotionEngineApp.exe
+C:\Users\siddhant\source\repos\PromotionEngineTest\PromotionEngineApp\bin\Debug\PromotionEngineApp.pdb
+C:\Users\siddhant\source\repos\PromotionEngineTest\PromotionEngineApp\obj\Debug\PromotionEngineApp.csprojAssemblyReference.cache
+C:\Users\siddhant\source\repos\PromotionEngineTest\PromotionEngineApp\obj\Debug\PromotionEngineApp.csproj.CoreCompileInputs.cache
+C:\Users\siddhant\source\repos\PromotionEngineTest\PromotionEngineApp\obj\Debug\PromotionEngineApp.exe
+C:\Users\siddhant\source\repos\PromotionEngineTest\PromotionEngineApp\obj\Debug\PromotionEngineApp.pdb
